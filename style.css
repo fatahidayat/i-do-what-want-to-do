@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #FFFFFF;
+}
+#lifestyle {
+  background-color: #FFFFFF;
+}
+section {
+  padding-top: 1rem;
+}
+.Junior {
+  padding-top: 10px;
+}
+.kartu {
+  padding-top: 15px;
+}
